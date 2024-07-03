@@ -20,7 +20,7 @@ const Education: React.FC<EducationProps> = ({
 }) => {
   return (
     <div className="education">
-      <h2>Educations</h2>
+      <h2>Education</h2>
       {isEditing ? (
         <form>
           <label>School:</label>
