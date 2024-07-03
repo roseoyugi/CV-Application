@@ -1,0 +1,40 @@
+.experience {
+    margin-bottom: 20px;
+  }
+  
+  .experience h2 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+  }
+  
+  .experience form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .experience label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .experience input, 
+  .experience textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .experience button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #17a2b8;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .experience button:hover {
+    background-color: #0056b3;
+  }
+  
